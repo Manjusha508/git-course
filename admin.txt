@@ -1,0 +1,2 @@
+a new file created in feature1 branch
+where user has acces to delete users
